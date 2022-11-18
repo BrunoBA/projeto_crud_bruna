@@ -25,35 +25,34 @@ Deve ser implementado um CLI simples com os seguintes comandos
 5. [Remover](#remover) 
 
 ## Adicionar
-```
-Ao selecionar a opção 1, deve ser perguntado o nome da pessoa a ser inserida e atribuir um identificador único ao mesmo
-```
+
+> Ao selecionar a opção 1, deve ser perguntado o nome da pessoa a ser inserida e atribuir um identificador único ao mesmo
+
 
 ## Exibir
-```
-Deve perguntar o identificador da pessoa, e exibir o seu nome na tela, caso a pessoa não exista, informe ao usuário que esse usuário não existe ou foi removido
-```
+
+> Deve perguntar o identificador da pessoa, e exibir o seu nome na tela, caso a pessoa não exista, informe ao usuário que esse usuário não existe ou foi removido
+
 
 ## Listar
-```
-Deve mostrar todos as pessoas cadastradas
-```
+
+> Deve mostrar todos as pessoas cadastradas
+
 
 ## Alterar
-```
-Deve perguntar o identificador da pessoa, e perguntar o novo nome. O identificador do usuário deve permanecer intacto
-```
+
+> Deve perguntar o identificador da pessoa, e perguntar o novo nome. O identificador do usuário deve permanecer intacto
+
 
 ## Remover
 
-```
-Deve perguntar o identificador da pessoa, e então excluir
-```
+> Deve perguntar o identificador da pessoa, e então excluir
+
 
 ## Funcionamento
-```
-Os identificadores devem ser únicos, se um usuário foi removido, outro usuário não pode ter o mesmo id
-```
+
+> Os identificadores devem ser únicos, se um usuário foi removido, outro usuário não pode ter o mesmo id
+
 
 Ex:
 | Identificador      | Nome |
